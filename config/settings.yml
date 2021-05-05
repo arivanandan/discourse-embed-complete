@@ -1,0 +1,4 @@
+plugins:
+  embed_complete_enabled:
+    default: true
+    client: true
