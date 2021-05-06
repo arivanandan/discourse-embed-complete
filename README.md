@@ -14,8 +14,7 @@ hooks:
         cd: $home/plugins
         cmd:
           - git clone https://github.com/discourse/docker_manager.git
-          - git clone https://github.com/arivanandan/discourse-jwt.git
-          - git clone https://github.com/discourse/discourse-embed-complete.git
+          - git clone https://github.com/arivanandan/discourse-embed-complete.git
 ```
 
 ## Usage
